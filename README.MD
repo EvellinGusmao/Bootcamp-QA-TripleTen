@@ -2,60 +2,60 @@
 
  <img src="Imagens\Logo-Tripleten.png">
 
-## Sprint 1
-- Desenvolvimento e testes
-- Etapas do ciclo de vida de desenvolvimento de software
-- Teste de Lançamento
-- Checklist de teste
-- Relatórios de Bugs
-- Severidade e prioridade
-- Configuração de sistema
-- Casos de teste
-- Relatório de resumo de testes
-- Teste de fumaça
-- Teste de regressão
+### Sprint 1
+- Development and testing
+- Stages of the software development life cycle
+- Launch Test
+- Test checklist
+- Bug Reports
+- Severity and priority
+- System configuration
+- Test cases
+- Test summary report
+- Smoke test
+- Regression Testing
 
-## Sprint 2
-- Análise de requisitos
-- Identificação de objetos de teste
-- Visualização de requisitos: mapa mental e fluxograma
-- Áreas cinzentas e pesquisa de requisitos
-- Testes funcionais e não funcionais
-- Design de casos de teste
-- Classes de equivalência
-- Valores-limites
-- Otimização de teste
-- Documentação de teste
+### Sprint 2
+- Requirements analysis
+- Identification of test objects
+- Requirements visualization: mind map and flowchart
+- Gray areas and requirements research
+- Functional and non-functional tests
+- Test case design
+- Equivalence classes
+- Limit values
+- Test optimization
+- Test documentation
 
-## Sprint 3
-- Teste de Aplicativos Web
+### Sprint 3
+- Web Application Testing
 - URL
-- Solicitações HTTP
-- Respostas HTTP
-- Front-end e back-end
+- HTTP Requests
+- HTTP responses
+- Front-end and back-end
 - Cookies
-- Armazenamento local
-- Cache em testes
-- Testes de interface do usuário de um aplicativo web
-- Elementos da interface
+- Local storage
+- Cache in tests
+- UI testing of a web application
+- Interface elements
 - Figma
-- Teste entre plataforma e navegador
-- Testes multiplataforma
-- Testes entre navegadores
-- Teste de design web responsivo
+- Testing between platform and browser
+- Cross-platform testing
+- Cross-browser testing
+- Responsive web design testing
 
-## Sprint 4
-- Arquitetura do aplicativo
-- REST: Soluções de arquitetura
-- HTTP: Estrutura de solicitação e resposta
-- JSON
-- Postman: Testes de API 
+### Sprint 4
+- App architecture
+- REST: Architecture solutions
+- HTTP: Request and response structure
+-JSON
+- Postman: API Testing 
 - Swagger
 - Apidoc
 
-## Sprint 5
+### Sprint 5
 - Console
-- Sistemas operacionais
-- Linha de comando
-- Noções básicas de SQL
-- Testes de banco de dados
+- Operational systems
+- Command Line
+- Basics of SQL
+- Database testing
